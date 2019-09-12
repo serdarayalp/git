@@ -4,4 +4,4 @@
 
 # Maven
 target
-.flattened-pom.xml
+out
